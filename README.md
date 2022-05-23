@@ -1,5 +1,8 @@
 ### Hello Everyone 👋
 
+# #띄어쓰기 문장을 적면 #하나는 <h1>태그와 같은 역할을
+###### #6개 한칸띄우고 문장을 적으면 <h6>같은 역할을 합니다.
+
 <!--
 **eun-chongzzz/eun-chongzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
